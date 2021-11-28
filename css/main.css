@@ -1,6 +1,9 @@
-@import url('./bootstrap.min.css');
-@import url('./config.css');
-@import url('./global.css');
-@import url('./custom.css');
-@import url('./responsive.css');
+@charset "UTF8";
 
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+@import url('../node_modules/bootstrap-icons/font/bootstrap-icons.css');
+@import url('fonts.css');
+@import url('config.css');
+@import url('global.css');
+@import url('custom.css');
+@import url('responsive.css');
